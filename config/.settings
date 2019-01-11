@@ -1,0 +1,20 @@
+{
+    "projectName": "HitechOrg",
+    "username": "nunzi.f@hitech.org",
+    "id": "4221f270-15ac-11e9-b034-330adbfedc3c",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ritenta-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\f.nunzi\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomMetadata",
+        "CustomObject",
+        "StaticResource",
+        "Workflow"
+    ]
+}
